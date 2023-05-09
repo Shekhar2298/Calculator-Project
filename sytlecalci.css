@@ -1,0 +1,48 @@
+.method{
+    
+    padding-bottom: 1px;
+}
+.add{
+    height: 60px;
+    width: 60px;
+    size: 30px;
+    padding:8px 4px;
+    border-radius: 50%;
+    font-size: 25px;
+}
+.input{
+    display:inline-grid;
+
+}
+.number{                                                          
+    padding-bottom: 1px;
+    height: 60px;
+    width: 60px;
+    padding: 8px 4px;
+    border-radius: 50%;
+    font-size: 25px;
+    border-style: 2px solid;
+}
+    
+.calci{
+       height:430px;
+   width: 260px;
+   margin-left: 600px;
+   margin-top: 80px;
+   background-color: rgb(19, 224, 111);
+   border-style: solid;
+                                                                          
+}
+.textbox{
+    width: 250px;
+    height:120px;
+    border-radius: 10px;
+    background-color: beige;
+    border-color: black;
+}
+h1{
+ margin-left: 625px;
+ margin-top: 120px;
+ color: blue;
+ font-size: 45px;
+}
